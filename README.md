@@ -64,15 +64,3 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=JasmineK39&b
 </div>
 
 <br>
-
-<div align="center">
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=JasmineK39&show_icons=true&hide_border=true&theme=transparent&title_color=A47551&icon_color=A47551&text_color=6D4C41"/>
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineK39&layout=compact&hide_border=true&theme=transparent&title_color=A47551&text_color=6D4C41"/>
-
-</div>
