@@ -64,7 +64,7 @@ Marketplace platform for used automotive parts, focusing on product catalog mana
 
 Laravel &nbsp;•&nbsp; MySQL &nbsp;•&nbsp; Vue.js &nbsp;•&nbsp; Tailwind CSS
 
-<a href="https://github.com/JasmineK39/" target="_blank">
+<a href="https://github.com/JasmineK39/WebsiteBerkahOnderdil" target="_blank">
 View Repository
 </a>
 
@@ -75,18 +75,18 @@ Website nutrition tracking application for recording meals, monitoring daily int
 
 PHP Native &nbsp;•&nbsp; MySQL &nbsp;•&nbsp; Tailwind CSS
 
-<a href="https://github.com/JasmineK39/" target="_blank">
+<a href="https://github.com/JasmineK39/Nutritrack" target="_blank">
 View Repository
 </a>
 
 </td> <td width="50%" valign="top"> <br>
 
 <b>Roll-a-Ball</b> <br>
-Unity learning project covering player movement, physics, collisions, and core gameplay mechanics.
+2D educational platformer game built with Java and Greenfoot that promotes healthy eating through calorie management and healthy food choices.
 
 Unity &nbsp;•&nbsp; C#
 
-<a href="https://github.com/JasmineK39/" target="_blank">
+<a href="https://github.com/JasmineK39/Greenfoot-Nutrigame" target="_blank">
 View Repository
 </a>
 
