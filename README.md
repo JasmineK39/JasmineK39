@@ -33,7 +33,7 @@ Diploma in Informatics Engineering
 <br>
 
 <b>Focus</b> <br>
-Fulstack Development <br>
+Fullstack Development <br>
 Software Engineering  
 Secure Development  
 System Design
