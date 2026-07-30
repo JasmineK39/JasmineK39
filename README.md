@@ -97,7 +97,7 @@ View Repository
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jasmine-kunthi-sophianingrum-9bb378320" target="_blank">LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="jasminesophia369@gmail.com">Email</a>
+<a href="https://www.instagram.com/elizajasmine963?igsh=NGxudnZ0bGRmbnoy">Instagram</a>
 
 </div> <br>
 <br> <div align="center">
