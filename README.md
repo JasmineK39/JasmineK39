@@ -20,11 +20,7 @@ Informatics Engineering Student — Fullstack & Software Development
 
 <td width="60%" valign="top">
 
-I build backend systems and software solutions with an emphasis on reliability, maintainability, and clear architecture.
-
-My work focuses on developing information systems, particularly in health technology domains where structured data, workflow management, and system correctness are critical.
-
-Currently pursuing a Diploma in Informatics Engineering at Universitas Sebelas Maret, with growing interests in secure software development and system design.
+I build full-stack web applications with a focus on clean architecture, maintainable code, and reliable backend systems. My experience includes developing information systems using Laravel, Vue.js, and MySQL, collaborating on real-world software projects, and deploying applications in Linux server environments. Currently pursuing a Diploma in Informatics Engineering at Universitas Sebelas Maret while expanding my expertise in AI-assisted software development and cybersecurity.
 
 </td>
 
@@ -38,7 +34,7 @@ Diploma in Informatics Engineering
 
 <b>Focus</b> <br>
 Fulstack Development <br>
-Software Architecture  
+Software Engineering  
 Secure Development  
 System Design
 
