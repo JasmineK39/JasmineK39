@@ -9,7 +9,7 @@ Informatics Engineering Student — Fullstack & Software Development
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=4000&pause=1500&color=A47551&center=true&vCenter=true&width=600&lines=FUllstack+Development;Software+Architecture;Health+Technology;Secure+Software+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=4000&pause=1500&color=A47551&center=true&vCenter=true&width=600&lines=Fullstack+Development;Software+Architecture;Health+Technology;Secure+Software+Development" />
 
 </div>
 
